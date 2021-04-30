@@ -1,3 +1,8 @@
 body {
   background: transparent;
 }
+#keyboard {
+  position: relative;
+  width: 625px;
+  height: 160px;
+}
